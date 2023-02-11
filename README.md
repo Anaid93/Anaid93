@@ -1,5 +1,13 @@
-# ! Hi there, I'm Anaid 👋
+#  Hi, I'm Anaid! 👋
 
+
+
+## Skills:
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <!--
 **Anaid93/Anaid93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
