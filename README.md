@@ -5,6 +5,8 @@ I am a programmer with knowledge in Python and Kotlin programming language. I ha
 ## Skills:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-black?style=flat-square&logo=AndroidStudio)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
