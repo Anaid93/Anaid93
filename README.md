@@ -1,4 +1,4 @@
-#  Hi, I'm Anaid! 👋
+#  Hi, I'm Diana! 👋
 
 I am a programmer with knowledge in Python and Kotlin programming language. I have worked in several projects, and I have developed some personal projects which are in my repository. I am a person looking for opportunities to help me grow and develop professionally. I also consider myself a very passionate person to learn new things, overcoming little by little all the difficulties that may arise along the way.
 
